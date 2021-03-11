@@ -17,6 +17,6 @@
 #### Ermöglicht den Übergang zum Key-Value-Storage.
 ### GER (Rekonstruierter Ausgangstext)
 #### IBM PC XT als Verkehrsüberwachungsserver, mit einem unabhängig aufbereiteten, qualitätsgesicherten Erstanbietergerät als unaufwendiges Frontend.
-#### Schlüssel-Werte Speicher für Effizienz der Übergangs-Datenablage implementieren.
+#### Schlüssel-Werte Speicher für Effizienz der ÜberGangs-DatenAblage implEmenTieren.
 
 That they feel naked after that misdemeanour manipulating their own casing/cloak/compress to gain for them selves, to master/govern/control the puppet playing apparatus central computing unit beeing a respective terminal device capab<a>le sending update request (HTAB,EOT) followed by signalling RX-readyness (ENQ,EOT) gaining transport feed to tabstop calculated for the initiating sequence (LF,ENQ) into RX-buffer and confirming (ACK,ENQ) or vice versa...
