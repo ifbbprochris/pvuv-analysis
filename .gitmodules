@@ -1,0 +1,3 @@
+[submodule "pickzyx"]
+	path = pickzyx
+	url = git@github.com:pvuv-analysis/pickzyx
