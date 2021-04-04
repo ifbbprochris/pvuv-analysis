@@ -261,3 +261,12 @@ https://www.cell.com/heliyon/pdf/S2405-8440(20)31292-5.pdf
 
 
 So ist PVUV zu PVXV geworden, und das X zu IVXXIVX, so PVIVXXIVXV wenn es dann bald zu kiEN.GIR gewandelt sein wird...
+
+
+Abnahmeprotokoll: https://www.rt.com/usa/519782-xenobots-improved-swarm-memory/
+Dem Anwendungszweck gemäß ver- und aufgeschlüsselt dargestellt: Xenobots 2.0? Scientists create improved biological robots from frog cells capable of ‘swarm’ behavior, memory & self-healing
+The upgraded bots built on work first unveiled by scientists at Tufts University and the University of Vermont last year, improving on the design to allow them to move faster, live longer and assemble themselves to work collectively as one unit, a process known as “cellular self-organization.” Outlined in an article for the Science Robotics journal on Wednesday, the breakthrough could shed light on “swarm intelligence” in the animal kingdom and beyond.
+
+“Roboticists have been looking at swarm intelligence for a long time, biologists have been studying swarm intelligence in organisms. This is something in between, which I think is kind of interesting,” said University of Vermont researcher Josh Bongard.
+
+It sort of suggests, to me at least as a roboticist, is this a better path to making swarms of useful machines than it is to make swarms out of traditional robotic parts?
